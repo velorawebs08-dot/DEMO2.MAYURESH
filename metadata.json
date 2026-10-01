@@ -1,0 +1,6 @@
+{
+  "name": "AURA & KIN — Photography & Film Studio",
+  "description": "Editorial photography and analog cinematography studio crafting serene, timeless imagery for couples and creative brands worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
